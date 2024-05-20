@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that use Python, JavaScript or Kotlin
 - 📫 How to reach me: notgrent on Discord
-- 😄 Pronouns: He/him
+- 😄 Pronouns: They/them
 - ⚡ Fun fact: I'm always sleepy
 
 <!---
